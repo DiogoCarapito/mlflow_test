@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/diogocarapito/Programac%CC%A7a%CC%83o/mlflow_test/mlruns/0/bb70ddbfdd63479cb611f6d053f0170f/artifacts
+deleted_time: 1717321104719
+end_time: 1717319753279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bb70ddbfdd63479cb611f6d053f0170f
+run_name: blushing-elk-9
+run_uuid: bb70ddbfdd63479cb611f6d053f0170f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717319752906
+status: 3
+tags: []
+user_id: diogocarapito

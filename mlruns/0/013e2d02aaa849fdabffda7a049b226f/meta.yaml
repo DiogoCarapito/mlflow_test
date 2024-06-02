@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/diogocarapito/Programac%CC%A7a%CC%83o/mlflow_test/mlruns/0/013e2d02aaa849fdabffda7a049b226f/artifacts
+deleted_time: 1717321104715
+end_time: 1717319995762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 013e2d02aaa849fdabffda7a049b226f
+run_name: magnificent-moose-59
+run_uuid: 013e2d02aaa849fdabffda7a049b226f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717319995695
+status: 3
+tags: []
+user_id: diogocarapito

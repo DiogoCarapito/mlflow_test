@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diogocarapito/Programac%CC%A7a%CC%83o/mlflow_test/mlruns/0/845c645633eb4a4bb0830bcae9baccfb/artifacts
+end_time: 1717322119996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 845c645633eb4a4bb0830bcae9baccfb
+run_name: sassy-mouse-272
+run_uuid: 845c645633eb4a4bb0830bcae9baccfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717322114498
+status: 3
+tags: []
+user_id: diogocarapito

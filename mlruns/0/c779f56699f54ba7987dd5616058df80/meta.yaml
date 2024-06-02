@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/diogocarapito/Programac%CC%A7a%CC%83o/mlflow_test/mlruns/0/c779f56699f54ba7987dd5616058df80/artifacts
+deleted_time: 1717321104720
+end_time: 1717319682152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c779f56699f54ba7987dd5616058df80
+run_name: salty-whale-938
+run_uuid: c779f56699f54ba7987dd5616058df80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717319681785
+status: 3
+tags: []
+user_id: diogocarapito

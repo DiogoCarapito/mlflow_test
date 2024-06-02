@@ -1,7 +1,8 @@
-[![Github Actions Workflow](https://github.com/DiogoCarapito/python_project_template/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/python_project_template/actions/workflows/main.yaml)
+[![Github Actions Workflow](https://github.com/DiogoCarapito/python_project_template/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/mlflow_test/actions/workflows/main.yaml)
 
-# python_project_template
-Personal python project template
+# mlflow tests
+mlflow tests
+(https://github.com/mlflow/mlflow/tree/master/examples/sklearn_logistic_regression)[https://github.com/mlflow/mlflow/tree/master/examples/sklearn_logistic_regression]
 
 ## cheat sheet
 
