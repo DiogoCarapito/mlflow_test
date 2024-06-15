@@ -1,7 +1,7 @@
-python: "3.12"
+python: "3.11.9"
 build_dependencies:
-  - pip
+  - pip==24.0
+  - setuptools
+  - wheel==0.43.0
 dependencies:
-  - mlflow>=1.0
-  - scipy
-  - scikit-learn
+  - -r requirements.txt

@@ -17,6 +17,11 @@ activate venv
 source .venv/bin/activate
 ```
 
+### MLFlow
+```bash
+mlflow server --host 127.0.0.1 --port 8080
+```
+
 ### Docker
 build docker image
 ```bash
